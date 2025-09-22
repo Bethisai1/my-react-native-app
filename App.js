@@ -4,8 +4,8 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js this is the app!</Text>
-      <StatusBar style="auto"/>
+      <Text>Hi all this is the app.js file for the testing perpose</Text>
+      <StatusBar style="auto" />
     </View>
   );
 }
