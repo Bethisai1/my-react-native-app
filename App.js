@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>this is the collabaration one </Text>
+      <Text>this is the collabaration one now one to change w</Text>
     </View>
   );
 }
